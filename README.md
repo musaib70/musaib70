@@ -7,7 +7,7 @@
 
 I'm Mohammed 👋 a passionate Cloud/DevOps engineer from Pakistan, Pakistan with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
 
-<img align="right" alt="Scripting" width="500" src="https://thectoclub.com/wp-content/uploads/sites/13/2023/08/List-of-DevOps-Best-Practices-792x446.png">
+<img align="right" alt="Scripting" width="400" src="https://iconscout.com/lottie-animation/boy-is-talking-about-integration-with-software-development-13094721">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
