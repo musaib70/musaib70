@@ -1,7 +1,6 @@
 
 <p align="center">
 
-![MasterHead](https://thectoclub.com/wp-content/uploads/sites/13/2023/08/List-of-DevOps-Best-Practices-792x446.png)
 السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 </p>
 
