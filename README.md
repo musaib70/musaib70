@@ -1,3 +1,7 @@
+![MasterHead](https://thectoclub.com/wp-content/uploads/sites/13/2023/08/List-of-DevOps-Best-Practices-792x446.png)
+<h1 align="center">Hi 👋, I'm Aman Pathak from India🇮🇳</h1>
+
+
 <p align="center">
 السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 </p>
