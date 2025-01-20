@@ -5,7 +5,9 @@
 
 ## Muhammad Musaib Khan - Cloud/DevOps Engineer
 
-I'm Mohammed 👋 a passionate Cloud/DevOps engineer from Pakistan, Pakistan with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
+👋 Hi, I'm Mohammad Musaib Khan, a passionate Cloud/DevOps Engineer from Pakistan with a strong background in cloud technologies, automation, and containerization. I specialize in designing and implementing scalable, resilient systems that leverage containers to streamline workflows and enable teams to deliver software more efficiently and reliably.
+
+Feel free to explore my projects, contributions, and open-source work showcased here.
 
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
